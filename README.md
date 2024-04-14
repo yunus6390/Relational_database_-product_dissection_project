@@ -4,9 +4,9 @@ Email: yunus.teli55@gmail.com\
 # Capstone project: Relational Database
 ## Table of Contents
 - [Company Overview](#company-overview)
-- [Product Dissection and Real-World Problems Solved by Naukri.com](#product-dissection-and-real-world-problems-solved-by-nuakricom)
-- [Real-World Problems and Naukri.com’s Innovative Solutions](#real-world-problems-and-nuakricoms-innovative-solutions)
-- [Top Features of Naukri portal](#top-features-of-nuakri-portal)
+- [Product Dissection and Real-World Problems Solved by naukri.com](#product-dissection-and-real-world-problems-solved-by-naukricom)
+- [Real-World Problems and naukri.com’s Innovative Solutions](#real-world-problems-and-naukricoms-innovative-solutions)
+- [Top Features of Naukri portal](#top-features-of-naukri-portal)
 - [Schema Design](#schema-design)
 - [ER Diagram](#er-diagram)
 - [Presentation of Findings](#presentation-of-findings)
@@ -36,7 +36,7 @@ Headquarters Location: Noida, UP
  - Limited Visibility to Potential Candidates
  - Lack of Insights for Recruitment Strategy
 
-## Real-World Problems and Naukri.com’s Innovative Solutions
+## Real-World Problems and Naukridotcom’s Innovative Solutions
 
  - Problem 1: Difficulty in Finding Relevant Job Openings
  - Problem 2: Lack of Visibility to Potential Employers
@@ -61,23 +61,23 @@ Headquarters Location: Noida, UP
 
 ## Schema Design
 
-Entities
-User:
-Company:
-Job Posting:
-Application:
-SavedJob:
-Skills:
-UserSkill:
-Relationships
-•	A User can post multiple Job Postings.
-•	A Company can have multiple Job Postings.
-•	A Job Posting is posted by one User.
-•	A User can apply for multiple Job Postings.
-•	A Job Posting can receive multiple Applications.
-•	A User can save multiple Job Postings.
-•	A Job Posting can be saved by multiple Users.
-•	Users can have multiple Skills, and Skills can be associated with multiple Users.
+Entities \
+User: \
+Company: \
+Job Posting: \
+Application: \
+SavedJob: \
+Skills: \
+UserSkill: \
+Relationships \
+•	A User can post multiple Job Postings.\
+•	A Company can have multiple Job Postings.\
+•	A Job Posting is posted by one User.\
+•	A User can apply for multiple Job Postings.\
+•	A Job Posting can receive multiple Applications.\
+•	A User can save multiple Job Postings.\
+•	A Job Posting can be saved by multiple Users.\
+•	Users can have multiple Skills, and Skills can be associated with multiple Users.\
 
 ## ER Diagram
 
