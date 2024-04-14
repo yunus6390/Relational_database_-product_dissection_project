@@ -1,6 +1,6 @@
 # Capstone project: Relational  Database
 
-![alt text](Naukri-1.jpg)
+![alt text](Naukri.jpg)
 
 ## Product Dissection for Naukri.com
 
