@@ -96,3 +96,4 @@ Relationships \
 ## Conclusion
 
 In essence, the schema design forms the foundation of Naukri.com’s functionality and user experience, shaping how users interact with the platform, how data is organized and retrieved, and how personalized and secure their experience is. A well-thought-out schema design is essential for delivering a seamless, efficient, and satisfying user experience on the platform.
+for detailed analysis visit 
