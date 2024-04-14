@@ -5,7 +5,7 @@ Email: yunus.teli55@gmail.com\
 ## Table of Contents
 - [Company Overview](#company-overview)
 - [Product Dissection and Real-World Problems Solved by naukri.com](#product-dissection-and-real-world-problems-solved-by-naukricom)
-- [Real-World Problems and naukri.com's Innovative Solutions](#real-world-problems-and-naukricom-s-innovative-solutions)
+- [Real-World Problems and naukri.com-s Innovative Solutions](#real-world-problems-and-naukricom-s-innovative-solutions)
 - [Top Features of Naukri portal](#top-features-of-naukri-portal)
 - [Schema Design](#schema-design)
 - [ER Diagram](#er-diagram)
@@ -36,7 +36,7 @@ Headquarters Location: Noida, UP
  - Limited Visibility to Potential Candidates
  - Lack of Insights for Recruitment Strategy
 
-## Real-World Problems and Naukridotcom’s Innovative Solutions
+## Real-World Problems and Naukri.com-s Innovative Solutions
 
  - Problem 1: Difficulty in Finding Relevant Job Openings
  - Problem 2: Lack of Visibility to Potential Employers
