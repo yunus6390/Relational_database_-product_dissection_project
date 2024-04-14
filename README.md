@@ -14,10 +14,10 @@ Email: yunus.teli55@gmail.com\
 
 ## Company Overview
 
-Founder: Sanjeev Bikhchandani 
-Owned and Operated by: Info Edge(India) Ltd 
-Founded in: 2 April, 1997 
-Headquarters Location: Noida, UP
+Founder: Sanjeev Bikhchandani \
+Owned and Operated by: Info Edge(India) Ltd \
+Founded in: 2 April, 1997 \
+Headquarters Location: Noida, UP 
 
 
 ## Product Dissection and Real-World Problems Solved by Naukri.com
